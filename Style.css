@@ -10,3 +10,16 @@ body{
 #blipblap{
     
 }
+.banner-card{
+    position: relative;
+}
+.banner-card img{
+    max-width: 100%;
+    height: auto;
+}
+.banner-text{
+    position: absolute;
+    top: 1;
+    color: #1d1b1b;
+    padding: -10px;
+}
